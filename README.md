@@ -1,2 +1,2 @@
 # DS_Projects
- Complete Data Science projects
+Data Science projects
